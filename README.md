@@ -1,6 +1,6 @@
 # GBR_Gompertz
 
-Analysis of coral disturbance dynamics on the Great Barrier Reef (1995-2017) as presented in MacNeil et al. (2019) Water-quality limits on resilience of the Great Barrier Reef. Nature Ecology & Evolution XXX:XXX-XXX.
+Analysis of coral disturbance dynamics on the Great Barrier Reef (1995-2017) as presented in MacNeil et al. (2019) Water-quality limits on resilience of the Great Barrier Reef. [Nature Ecology & Evolution 3, 620–627](https://www.nature.com/articles/s41559-019-0832-3).
 
 This repo includes all data and files needed to reproduce the analysis and figures in the published paper, typically as [Jupyter](https://jupyter.org) notebooks. Analysis was conducted using the [Python](https://www.python.org) library [PyMC3](https://docs.pymc.io), which will need to be installed along with dependencies. 
 
